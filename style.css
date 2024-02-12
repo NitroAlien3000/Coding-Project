@@ -55,8 +55,16 @@ select{
 	border-radius: 10px;
 	border: 3px solid greenyellow;
 	padding: 5px;
-	box-shadow: rgba(111, 252, 50, 0.5) 0px 10px 10px 5px;
+	box-shadow: rgba(111, 252, 50, 0.5) 0px 10px 10px 0px;
 	text-align: center;
 	font-weight: 550;
 
+}
+
+checkbox{
+	border-radius: 10px;
+	border: 3px solid greenyellow;
+	padding: 5px;
+	text-align: center;
+	box-shadow: rgba(11, 252, 50, 0.5) 0px 10px 10px 0px
 }
