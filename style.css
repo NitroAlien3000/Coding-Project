@@ -19,7 +19,7 @@ body{
 	padding: 5px;
 }
 #btn:hover{
-	background: linear-gradient(blue, blueviolet, violet);
+	background: linear-gradient(blue, blueviolet, violet)
 }
 .basic{
 	width: 250px;
